@@ -2,7 +2,7 @@
 title: "Syllabus"
 ---
 
-
+<!-- 
 Jump to:
 
   -  [About Statistics 134](#about)
@@ -14,7 +14,7 @@ Jump to:
   -  [Grading](#grading)
   -  [Homework](#homework)
   -  [DSP Accommodations](#accomodations)
-  -  [Academic Misconduct and Community Standards](#honorcode)
+  -  [Academic Misconduct and Community Standards](#honorcode) -->
 
 
 # Stat 134 Fall 2024: Course Syllabus
