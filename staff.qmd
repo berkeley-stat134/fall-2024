@@ -11,6 +11,7 @@ Office hours are subject to change.
 
 ::: {.g-col-4}
 **Instructor:** <a href="https://www.stat.berkeley.edu/~shobhana/" target='_blank'>Shobhana Murali Stoyanov</a><br>
+![](/assets/shobhana.jpg){width=3in} <br>
 `shobhana@berkeley.edu`<br>
 Office hours: <br>
 - Wed 1-3 pm, SLC <br>
@@ -18,6 +19,7 @@ Office hours: <br>
 
 ::: {.g-col-4}
 **GSI:** Ibrahim Anagaa</a><br>
+![](/assets/ibrahim.jpg){width=3in} <br>
 `ibrahim_anagaa@berkeley.edu`<br>
 Office hours:<br>
 - Wed 9-10 am, SLC<br>
@@ -26,6 +28,7 @@ Office hours:<br>
 
 ::: {.g-col-4}
 **GSI:** Kaihao Jing</a><br>
+![](/assets/kaihao.jpg){width=3in} <br>
 `khjing@berkeley.edu`<br>
 Office hours:<br>
 - Tue  2-5 pm, SLC
@@ -33,6 +36,7 @@ Office hours:<br>
 
 ::: {.g-col-4}
 **GSI:** Sean McAvoy</a><br>
+![](/assets/sean.jpg){width=3in} <br>
 `sean_mcavoy@berkeley.edu`<br>
 Office hours:<br>
 - Fri 1-4 pm, SLC
@@ -40,6 +44,7 @@ Office hours:<br>
 
 ::: {.g-col-4}
 **GSI:** Max Medina Garcia</a><br>
+![](/assets/max.jpg){width=3in} <br>
 `max_medina@berkeley.edu`<br>
 Office hours:<br>
 - Mon 3-5 pm, SLC<br>
@@ -48,6 +53,7 @@ Office hours:<br>
 
 ::: {.g-col-4}
 **GSI:** Annie Ulichney</a><br>
+![](/assets/annie.jpeg){width=3in} <br>
 `annie_ulichney@berkeley.edu`<br>
 Office hours:<br>
 - Tue 9-11 am, SLC<br>
@@ -56,6 +62,7 @@ Office hours:<br>
 
 ::: {.g-col-4}
 **GSI:** Chunting Zheng </a><br>
+![](/assets/chunting.png){width=3in} <br>
 `chunting@berkeley.edu`<br>
 Office hours:<br>
 - Mon 2-5 pm, SLC
