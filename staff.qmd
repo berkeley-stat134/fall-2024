@@ -50,8 +50,8 @@ Office hours:<br>
 **GSI:** Annie Ulichney</a><br>
 `annie_ulichney@berkeley.edu`<br>
 Office hours:<br>
-- Mon 9-11 am, SLC<br>
-- Tue 10-11 am, SLC
+- Tue 9-11 am, SLC<br>
+- Wed 10-11 am, SLC
 :::
 
 ::: {.g-col-4}
