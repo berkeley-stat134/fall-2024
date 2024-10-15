@@ -10,11 +10,151 @@
     ]
   },
   {
-    "objectID": "syllabus.html#about-statistics-134",
-    "href": "syllabus.html#about-statistics-134",
+    "objectID": "syllabus.html#lectures",
+    "href": "syllabus.html#lectures",
     "title": "Syllabus",
-    "section": "About Statistics 134",
-    "text": "About Statistics 134\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.",
+    "section": "Lectures: ",
+    "text": "Lectures: \nTuesdays and Thursdays, 12:30 - 2 PM in VLSB 2050",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#instructor",
+    "href": "syllabus.html#instructor",
+    "title": "Syllabus",
+    "section": "Instructor: ",
+    "text": "Instructor: \nShobhana Murali Stoyanov (office: 333 Evans Hall)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#gsis",
+    "href": "syllabus.html#gsis",
+    "title": "Syllabus",
+    "section": "GSIs:",
+    "text": "GSIs:\n\nAnnie Ulichney\nChunting Zheng\nIbrahim Anagaa\nKaihao Jing\nMax Medina Garcia\nSean McAvoy",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#office-hours",
+    "href": "syllabus.html#office-hours",
+    "title": "Syllabus",
+    "section": "Office hours: ",
+    "text": "Office hours: \nYou will find the list of office hours here.  All office hours will be held in the Student Learning Center, and you may go to anyone’s office hour. In addition to the times listed here, SLC tutors are also available to help out.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#text",
+    "href": "syllabus.html#text",
+    "title": "Syllabus",
+    "section": "Text:",
+    "text": "Text:\nOur main text will be Introduction to Probability by Anderson, Seppäläinen, and Valkó. I will cover most of this text (details in the schedule). You may also refer to Probability, by Pitman.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#prerequisites",
+    "href": "syllabus.html#prerequisites",
+    "title": "Syllabus",
+    "section": "Prerequisites:",
+    "text": "Prerequisites:\nA year of calculus, so a level of ease with calculus is assumed.  Test yourself with this worksheet, written by Professor Adhikari.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#schedule",
+    "href": "syllabus.html#schedule",
+    "title": "Syllabus",
+    "section": "Schedule: ",
+    "text": "Schedule: \nThe list of topics to be covered and the corresponding chapters can be found in this spreadsheet. Please try to at least skim the readings before lecture, it will make your comprehension in lecture much stronger.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#exams",
+    "href": "syllabus.html#exams",
+    "title": "Syllabus",
+    "section": "Exams:  ",
+    "text": "Exams:  \nThere will be two exams:\n\nMidterm:  \nThursday, October 10, in class.\n\n\nFinal exam:\nFriday, December 20, 8-11 AM, location TBA. (Note that you must take the final in order to pass the class.)",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#quizzes",
+    "href": "syllabus.html#quizzes",
+    "title": "Syllabus",
+    "section": "Quizzes:",
+    "text": "Quizzes:\nThere will be three quizzes held during section on: - September 18 - October 30 - November 20. \nThere will be both an individual and group component to each quiz. The individual component will last about 25 minutes. The group component will take place immediately after the individual component has been completed and will last about 15 minutes. Your final (composite) quiz grade will be the average of your group and individual quiz scores.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#scheduling-conflicts",
+    "href": "syllabus.html#scheduling-conflicts",
+    "title": "Syllabus",
+    "section": "Scheduling conflicts: ",
+    "text": "Scheduling conflicts: \nPlease email to notify your GSI and copy Prof. S, about any known or potential conflicts with the quizzes and exams. We will do our best to work with you, but cannot give you guarantees.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#homework",
+    "href": "syllabus.html#homework",
+    "title": "Syllabus",
+    "section": "Homework: ",
+    "text": "Homework: \nHomework will be due almost every Monday, beginning with September 9, and will be due at 11:59 PM  on Gradescope. The lowest two homework scores will be dropped.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading: ",
+    "text": "Grading: \nYour final grade will be computed using the following weights:\nHomework (18%) Midterm (25%) Quizzes (27%) Final Exam (30%)\nThe final exam can “clobber” your midterm, since it is comprehensive. That is, if you do better on your final than your midterm, your final exam score will replace your midterm while computing your average. It will not work in the other direction.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#ed",
+    "href": "syllabus.html#ed",
+    "title": "Syllabus",
+    "section": "Ed:",
+    "text": "Ed:\nPlease use Ed for your questions about the material. You can make the question private if it is a personal matter only for the instructional staff. If you need it only to be read by Prof. S, please email, but only for really personal stuff. For examples, questions about your waitlist position or if you are traveling and need to miss class can be posted as private questions on Ed (since it is fine for the instructional staff to read it too, and in fact, will be answered faster). Ed is a formal, academic space, not a social forum. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#dsp-accommodations",
+    "href": "syllabus.html#dsp-accommodations",
+    "title": "Syllabus",
+    "section": "DSP Accommodations: ",
+    "text": "DSP Accommodations: \nUC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.\nIf you have a disability, or think you may have a disability, you can work with the Disabled Students’ Program (DSP) to request an official accommodation. The Disabled Students’ Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: dsp.berkeley.edu.",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#academic-misconduct-and-community-standards",
+    "href": "syllabus.html#academic-misconduct-and-community-standards",
+    "title": "Syllabus",
+    "section": "Academic Misconduct and Community Standards:  ",
+    "text": "Academic Misconduct and Community Standards:  \nYou are encouraged to discuss the homework problems with each other and the course staff. In fact, verbalizing your reasoning is known to deepen your understanding. However, please write up your solutions on your own. If I think that someone has cheated on a homework - either copied from a person or an online source and not acknowledged the source - I will report them to the Office of Student Conduct, and I may also give that student a 0 on that assignment. Of course, the same consequence holds for cheating on an exam or a quiz (and remember, part of your quiz grade is collaborative in any case).\nYou are a member of an academic community at one of the world’s leading research universities. One of the most important values of an academic community is the balance between the free flow of ideas and the respect for the intellectual property of others. Researchers don’t use one another’s research without permission; scholars and students always use proper citations in papers; professors may not circulate or publish student papers without the writer’s permission; and students may not circulate or post materials from their classes (handouts, exams, syllabi–any class materials) without the written permission of the instructor.\nAny assignment submitted by you, with your name, is presumed to be your own original work. Finally, you should keep in mind that as a member of the campus community, you are expected to demonstrate integrity in all of your academic endeavors. The consequences of cheating and academic dishonesty—including a formal discipline file, possible loss of future internship, scholarship, or employment opportunities, and denial of admission to graduate school—are simply not worth it.\nFor further reading, please reference Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct.",
     "crumbs": [
       "Syllabus"
     ]
@@ -24,7 +164,7 @@
     "href": "index.html",
     "title": "Statistics 134: Concepts of Probability",
     "section": "",
-    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\n\n\nInsert text about the class here.",
+    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n\nNo matching items\n\n\nAn introduction to probability, emphasizing concepts and applications. Conditional expectation, independence, laws of large numbers. Discrete and continuous random variables. Central limit theorem. Selected topics such as the Poisson process, Markov chains, characteristic functions.",
     "crumbs": [
       "Home"
     ]
@@ -34,7 +174,7 @@
     "href": "staff.html",
     "title": "Staff",
     "section": "",
-    "text": "Office hours are subject to change.\n\n\n\nInstructor: Person X x@berkeley.edu Office hours:  - Thursday 3pm-5pm, Evans 309  - Friday 2:00pm-4:30pm, Evans 309\n\n\nGSI: Person Y y@berkeley.edu Office hours: - Monday 11am-12pm, Evans 432 - Tuesday 4pm-5pm, Evans 432 - Wednesday 2pm-3pm, Evans 432 - Friday 12pm-1pm, Evans 432\n\n\nTutor: Person Z z@berkeley.edu Office hours:  - Wednesday 2:30pm - 4:30pm, Evans 434 - Sunday 2pm - 6pm, Zoom\n\n\nTutor: Person W w@berkeley.edu Office hours:  - Wednesday 10am-2pm, Evans 432 - Thursday 3-5pm, Evans 434",
+    "text": "Office hours are subject to change.\n\n\n\nInstructor: Shobhana Murali Stoyanov shobhana@berkeley.edu Office hours:  - Wed 1-3 pm, SLC \n\n\nGSI: Ibrahim Anagaa ibrahim_anagaa@berkeley.edu Office hours: - Wed 9-10 am, SLC - Thu 9-11 am, SLC\n\n\nGSI: Kaihao Jing khjing@berkeley.edu Office hours: - Tue 2-5 pm, SLC\n\n\nGSI: Sean McAvoy sean_mcavoy@berkeley.edu Office hours: - Fri 1-4 pm, SLC\n\n\nGSI: Max Medina Garcia max_medina@berkeley.edu Office hours: - Mon 3-5 pm, SLC - Wed 3-4 pm, SLC\n\n\nGSI: Annie Ulichney annie_ulichney@berkeley.edu Office hours: - Mon 9-11 am, SLC - Tue 10-11 am, SLC\n\n\nGSI: Chunting Zheng  chunting@berkeley.edu Office hours: - Mon 2-5 pm, SLC\n\n\nMath/Stat Program Coordinator: Jason Ferguson jason.ferguson@berkeley.edu Office hours: - Mon 12-1pm 5-6 pm, SLC - Tue 5:15-6 pm, SLC - Wed 5-6 pm, SLC - Thu 11:30-12:15 pm, SLC",
     "crumbs": [
       "Staff"
     ]
