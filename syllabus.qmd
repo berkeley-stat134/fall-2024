@@ -2,24 +2,109 @@
 title: "Syllabus"
 ---
 
+
 Jump to:
 
-- [About Statistics 134](#about)
-  - [Goals](#goals)
-  - [Prerequisites](#prerequisites)
+  -  [About Statistics 134](#about)
+  -  [Office hours](#officehours)
+  -  [Textbook](#textbook)
+  -  [Prerequisites](#prerequisites)
+  -  [Schedule](#schedule)
+  -  [Exams](#exams)
+  -  [Grading](#grading)
+  -  [Homework](#homework)
+  -  [DSP Accommodations](#accomodations)
+  -  [Academic Misconduct and Community Standards](#honorcode)
 
 
-## About Statistics 134
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
-
-### Goals
+# Stat 134 Fall 2024: Course Syllabus
 
 
-- Goal 1
-- Goal 2
-- Goal 3
+## Lectures: 
+Tuesdays and Thursdays, 12:30 - 2 PM in VLSB 2050
 
-### Prerequisites
+## Instructor: 
+Shobhana Murali Stoyanov (office: 333 Evans Hall)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum. 
+## GSIs:
+- Annie Ulichney 
+- Chunting Zheng
+- Ibrahim Anagaa
+- Kaihao Jing
+- Max Medina Garcia
+- Sean McAvoy
+
+## Office hours: 
+
+You will find the list of office hours [here](https://stat134.berkeley.edu/fall-2024/staff.html).  All office hours will be held in the [Student Learning Center](https://slc.berkeley.edu/home), and you may go to anyone's office hour. In addition to the times listed here, SLC tutors are also available to help out.
+
+## Text:
+
+Our main text will be Introduction to Probability by Anderson, Seppäläinen, and Valkó. I will cover most of this text (details in the schedule). You may also refer to Probability, by Pitman. 
+
+## Prerequisites:
+
+A year of calculus, so a level of ease with calculus is assumed.  Test yourself with this [worksheet](https://www.stat.berkeley.edu/~ani/s134s17/prereq.pdf), written by [Professor Adhikari](https://aniadhikari.org/).
+
+## Schedule: 
+
+The list of topics to be covered and the corresponding chapters can be found [in this spreadsheet](https://docs.google.com/spreadsheets/d/181NW6h4nO7jz3aJkUYnzlhkp0e6y3NHPZlVIQkKRSHE/edit?usp=sharing). Please try to at least skim the readings before lecture, it will make your comprehension in lecture much stronger.
+
+## Exams:  
+
+There will be two exams:
+
+### Midterm:  
+Thursday, October 10, in class.
+
+### Final exam: 
+Friday, December 20, 8-11 AM, location TBA. (Note that you must take the final in order to pass the class.)
+
+## Quizzes:
+
+There will be three quizzes held during section on: 
+- September 18
+- October 30
+- November 20. 
+
+There will be both an individual and group component to each quiz. The individual component will last about 25 minutes. The group component will take place immediately after the individual component has been completed and will last about 15 minutes. Your final (composite) quiz grade will be the average of your group and individual quiz scores. 
+
+## Scheduling conflicts: 
+
+Please email to notify your GSI and copy Prof. S, about any known or potential conflicts with the quizzes and exams. We will do our best to work with you, but cannot give you guarantees.
+
+## Homework: 
+
+Homework will be due almost every Monday, beginning with September 9, and will be due at 11:59 PM  on Gradescope. The lowest two homework scores will be dropped. 
+
+## Grading: 
+
+Your final grade will be computed using the following weights:
+
+Homework (18%)
+Midterm (25%)
+Quizzes (27%)
+Final Exam (30%)
+
+The final exam can "clobber" your midterm, since it is comprehensive. That is, if you do better on your final than your midterm, your final exam score will replace your midterm while computing your average. It will not work in the other direction.
+
+## Ed:
+
+Please use Ed for your questions about the material. You can make the question private if it is a personal matter only for the instructional staff. If you need it only to be read by Prof. S, please email, but only for really personal stuff. For examples, questions about your waitlist position or if you are traveling and need to miss class can be posted as private questions on Ed (since it is fine for the instructional staff to read it too, and in fact, will be answered faster). Ed is a formal, academic space, not a social forum. We must demonstrate appropriate respect, consideration, and compassion for others. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. 
+
+## DSP Accommodations: 
+
+UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.
+
+If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to request an official accommodation. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: dsp.berkeley.edu.
+
+
+## Academic Misconduct and Community Standards:  
+
+You are encouraged to discuss the homework problems with each other and the course staff. In fact, verbalizing your reasoning is known to deepen your understanding. However, please write up your solutions on your own. If I think that someone has cheated on a homework - either copied from a person or an online source and not acknowledged the source - I will report them to the Office of Student Conduct, and I may also give that student a 0 on that assignment. Of course, the same consequence holds for cheating on an exam or a quiz (and remember, part of your quiz grade is collaborative in any case).
+
+You are a member of an academic community at one of the world’s leading research universities. One of the most important values of an academic community is the balance between the free flow of ideas and the respect for the intellectual property of others. Researchers don't use one another's research without permission; scholars and students always use proper citations in papers; professors may not circulate or publish student papers without the writer's permission; and students may not circulate or post materials from their classes (handouts, exams, syllabi--any class materials) without the written permission of the instructor.
+
+Any assignment submitted by you, with your name, is presumed to be your own original work. Finally, you should keep in mind that as a member of the campus community, you are expected to demonstrate integrity in all of your academic endeavors. The consequences of cheating and academic dishonesty—including a formal discipline file, possible loss of future internship, scholarship, or employment opportunities, and denial of admission to graduate school—are simply not worth it.
+
+For further reading, please reference Berkeley’s Principles of Community and the Berkeley Campus Code of Student Conduct.
