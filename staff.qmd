@@ -44,7 +44,7 @@ Office hours:<br>
 
 ::: {.g-col-4}
 **GSI:** Max Medina Garcia</a><br>
-![](/assets/max.JPG){width=3in} <br>
+![](/assets/max.jpg){width=3in} <br>
 `max_medina@berkeley.edu`<br>
 Office hours:<br>
 - Mon 3-5 pm, SLC<br>
