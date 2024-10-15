@@ -20,7 +20,7 @@ Office hours: <br>
 **GSI:** Ibrahim Anagaa</a><br>
 `ibrahim_anagaa@berkeley.edu`<br>
 Office hours:<br>
-- Wed 9-10 am, SLC
+- Wed 9-10 am, SLC<br>
 - Thu 9-11 am, SLC
 :::
 
@@ -42,7 +42,7 @@ Office hours:<br>
 **GSI:** Max Medina Garcia</a><br>
 `max_medina@berkeley.edu`<br>
 Office hours:<br>
-- Mon 3-5 pm, SLC
+- Mon 3-5 pm, SLC<br>
 - Wed 3-4 pm, SLC
 :::
 
@@ -50,7 +50,7 @@ Office hours:<br>
 **GSI:** Annie Ulichney</a><br>
 `annie_ulichney@berkeley.edu`<br>
 Office hours:<br>
-- Mon 9-11 am, SLC
+- Mon 9-11 am, SLC<br>
 - Tue 10-11 am, SLC
 :::
 
@@ -65,9 +65,9 @@ Office hours:<br>
 **Math/Stat Program Coordinator:** Jason Ferguson</a><br>
 `jason.ferguson@berkeley.edu`<br>
 Office hours:<br>
-- Mon 12-1pm 5-6 pm, SLC
-- Tue 5:15-6 pm, SLC
-- Wed 5-6 pm, SLC 
+- Mon 12-1pm 5-6 pm, SLC<br>
+- Tue 5:15-6 pm, SLC<br>
+- Wed 5-6 pm, SLC<br>
 - Thu 11:30-12:15 pm, SLC
 :::
 
