@@ -4,3 +4,6 @@
 - button: Gradescope
   link: https://www.gradescope.com/courses/845000
   color: orange
+- button: BCourses
+  link: https://bcourses.berkeley.edu/courses/1538780
+  color: blue
